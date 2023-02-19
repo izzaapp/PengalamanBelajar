@@ -1,12 +1,12 @@
 # PengalamanBelajar
 Repositori ini berisikan pengalaman belajar Dicoding di MSIB
 
-17 Juli 2023
+17 Februari 2023
 Belajar kelas Git dengan Github (progres 24%)
 - Belajar mengenai perintah git dan repositori
 - Belajar berbagai macam tools dalam Github
 
-15 Juni 2021
+15 Februari 2023
 
 Belajar kelas Git dengan Github. (Progres 40%)
 
